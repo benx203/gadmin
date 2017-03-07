@@ -15,16 +15,16 @@ Default username/password:admin/111111
 [kindeditor](http://kindeditor.net/demo.php)
 
 # Screenshots
-![login](https://github.com/benx203/gadmin/blob/master/login.png)
+![login](https://github.com/benx203/gadmin/blob/master/screenshots/login.png)
 
-![main](https://github.com/benx203/gadmin/blob/master/main.png)
+![main](https://github.com/benx203/gadmin/blob/master/screenshots/main.png)
 
-![user](https://github.com/benx203/gadmin/blob/master/user.png)
+![user](https://github.com/benx203/gadmin/blob/master/screenshots/user.png)
 
-![module](https://github.com/benx203/gadmin/blob/master/module.png)
+![module](https://github.com/benx203/gadmin/blob/master/screenshots/module.png)
 
-![role](https://github.com/benx203/gadmin/blob/master/role.png)
+![role](https://github.com/benx203/gadmin/blob/master/screenshots/role.png)
 
-![multiNotification](https://github.com/benx203/gadmin/blob/master/multiNotification.png)
+![multiNotification](https://github.com/benx203/gadmin/blob/master/screenshots/multiNotification.png)
 
-![notification](https://github.com/benx203/gadmin/blob/master/notification.png)
+![notification](https://github.com/benx203/gadmin/blob/master/screenshots/notification.png)
