@@ -1,0 +1,21 @@
+#page-wrapper{
+    padding:5px 5px 0 5px;
+}
+.container-fluid{
+    padding: 0;
+}
+
+.multiselect-container{
+    margin-left: 15px;
+}
+.dropdown-menu.pull-right{
+    margin-right: 15px;
+}
+
+.attachment {
+    width: 364px;
+}
+.attachment a{
+    display: inline-block;
+    width: 320px;
+}
