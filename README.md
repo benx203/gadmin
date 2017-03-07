@@ -1,0 +1,2 @@
+# gadmin
+Grails admin
