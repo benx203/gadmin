@@ -1,5 +1,5 @@
 # gadmin
-Grails admin
+Grails Admin Framework
 
 Default username/password:admin/111111
 
@@ -11,6 +11,8 @@ Default username/password:admin/111111
 [SB Admin 2](https://github.com/BlackrockDigital/startbootstrap-sb-admin-2)
 
 [sweetalert](https://github.com/t4t5/sweetalert)
+
+[bootstrap-multiselect](https://github.com/davidstutz/bootstrap-multiselect)
 
 [kindeditor](http://kindeditor.net/demo.php)
 
